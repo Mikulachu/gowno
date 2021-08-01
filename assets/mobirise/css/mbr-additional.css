@@ -1032,6 +1032,19 @@ a {
 .cid-sEQt0VzlN9 .mbr-section-subtitle {
   color: #ffffff;
 }
+.cid-sEQGXbgEyJ {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-sEQGXbgEyJ .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sEQGXbgEyJ .mbr-section-title,
+.cid-sEQGXbgEyJ .mbr-section-subtitle,
+.cid-sEQGXbgEyJ .mbr-text {
+  text-align: center;
+}
 .cid-sEQwRhtJue {
   padding-top: 5rem;
   padding-bottom: 5rem;
